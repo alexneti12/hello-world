@@ -1,2 +1,3 @@
 # hello-world
-learning repository
+
+This is my github learning repository project
